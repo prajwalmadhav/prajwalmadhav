@@ -39,21 +39,21 @@ Here are some ideas to get you started:
 
   
 <p align="center">
-    <a href="https://github.com/SumukhJadhav/github-readme-streak-stats">
+    <a href="#">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pg's streak" src="https://github-readme-streak-stats.herokuapp.com?user=prajwalmadhav&theme=highcontrast&date_format=j%20M%5B%20Y%5D&ring=DD2727"/>
     </a>
 </p>
   
  ## My Github Stats
   <br/>
-    <a href="https://github.com/SumukhJadhav/github-readme-stats"><img alt="Sumukh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SumukhJadhav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/SumukhJadhav/github-readme-stats"><img alt="Sumukh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumukhJadhav&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="#"><img alt="Prajwal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prajwalmadhav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="#"><img alt="Sumukh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalmadhav&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>  
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/mdirfancse/github-readme-activity-graph"><img alt="Md Irfan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SumukhJadhav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="3"><img alt="Pg's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prajwalmadhav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
