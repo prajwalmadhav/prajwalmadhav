@@ -38,11 +38,7 @@ Here are some ideas to get you started:
 </p>
 
   
-<p align="center">
-    <a href="#">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pg's streak" src="https://github-readme-streak-stats.herokuapp.com?user=prajwalmadhav&theme=highcontrast&date_format=j%20M%5B%20Y%5D&ring=DD2727"/>
-    </a>
-</p>
+
   
  ## My Github Stats
   <br/>
@@ -51,7 +47,13 @@ Here are some ideas to get you started:
 
 
 <br/>
+  <p align="center">
+    <a href="#">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pg's streak" src="https://github-readme-streak-stats.herokuapp.com?user=prajwalmadhav&theme=highcontrast&date_format=j%20M%5B%20Y%5D&ring=DD2727"/>
+    </a>
+  </p>
 <br/>
+
 
 <a href="3"><img alt="Pg's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prajwalmadhav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
