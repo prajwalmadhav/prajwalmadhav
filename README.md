@@ -26,7 +26,25 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/14165349/sumukh-jadhav"><img src=https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8782331/adi-kris" height=25></a></p>
   
 <br> -->
-  
+  <!-- SVG Typing Animation  -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=9AA6B2&size=32&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Prajwal Madhav)](https://git.io/typing-svg)
+
+![DCoded DP darkmode](https://user-images.githubusercontent.com/65074550/126991264-dad10d03-f1f1-4317-91ba-4c53e59c0112.gif#gh-dark-mode-only)
+![lightmode-banner](https://user-images.githubusercontent.com/65074550/154921132-bce40455-d8e3-4ace-ba59-48855f65e1a5.gif#gh-light-mode-only)
+
+### `me.json`
+```json
+{
+  "name": "Prajwal Madhav",
+  "age": "21",
+  "country": "India",
+  "language": {
+    "speaking": ["English", "Kannada", "Hindi"],
+    "programming": ["JavaScript", "TypeScript", "React", "Python"],
+  },
+  "hobbies" : ["Programming", "Computers", "Gaming", "Partying", "Cars"],
+}
+```
   
  ## My Github Stats
   <br/>
