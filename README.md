@@ -1,38 +1,12 @@
 <!-- ### Hi there 👋 -->
 
-<!--
-**prajwalmadhav/prajwalmadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ## Hi, [Sumukh Jadhav](https://sumukhjadhav.github.io/portfolio.github.io/) here </br>
-<b> Final year Computer Science Student at [JIT](https://www.jyothyit.ac.in/), from <b>Bengaluru, India</b>
-  <br>
-  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SumukhJadhav&color=green">
-</a>
-  <br>
-<p><a href="https://www.linkedin.com/in/sumukh-jadhav/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/sumukhjadhav/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-<a href="https://stackoverflow.com/users/14165349/sumukh-jadhav"><img src=https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8782331/adi-kris" height=25></a></p>
   
 <br> -->
   <!-- SVG Typing Animation  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?background=FF000000&height=60&lines=Hi+this+is+Prajwal+Madhav+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-<!-- ![DCoded DP darkmode](https://user-images.githubusercontent.com/65074550/126991264-dad10d03-f1f1-4317-91ba-4c53e59c0112.gif#gh-dark-mode-only)
-![lightmode-banner](https://user-images.githubusercontent.com/65074550/154921132-bce40455-d8e3-4ace-ba59-48855f65e1a5.gif#gh-light-mode-only) -->
 
-### `me.json`
+### `Pg.json`
 ```json
 {
   "name": "Prajwal Madhav",
