@@ -3,7 +3,7 @@
   
 <br> 
   <!-- SVG Typing Animation  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?background=FF000000&height=60&lines=Hi+this+is+Prajwal+Madhav+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+this+is+Prajwal+Madhav+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 
 ### `Pg.json`
