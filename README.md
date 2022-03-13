@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
   
-<br> -->
+<br> 
   <!-- SVG Typing Animation  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?background=FF000000&height=60&lines=Hi+this+is+Prajwal+Madhav+%F0%9F%94%A5)](https://git.io/typing-svg)
 
@@ -9,14 +9,15 @@
 ### `Pg.json`
 ```json
 {
-  "name": "Prajwal Madhav",
-  "age": "21",
-  "country": "India",
-  "language": {
+  "Name": "Prajwal Madhav",
+  "Age": "21",
+  "Country": "India",
+  "City": "Bengaluru",
+  "Language": {
     "speaking": ["English", "Kannada", "Hindi"],
     "programming": ["JavaScript", "TypeScript", "React", "Python"],
   },
-  "hobbies" : ["Programming", "Computers", "Gaming", "Partying", "Cars"],
+  "Hobbies" : ["Programming", "Computers", "Gaming", "Partying", "Cars"],
 }
 ```
   
