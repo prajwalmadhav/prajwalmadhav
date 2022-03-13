@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
   
-<br> 
+
   <!-- SVG Typing Animation  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+this+is+Prajwal+Madhav+%F0%9F%94%A5)](https://git.io/typing-svg)
 
